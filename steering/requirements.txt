@@ -1,0 +1,7 @@
+kubernetes == 24.2.0
+python-dotenv == 0.20.0
+Flask == 2.1.2
+prometheus-client == 0.14.1
+flask_cors == 4.0.0
+randomname == 0.2.1
+
